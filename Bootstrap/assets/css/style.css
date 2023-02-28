@@ -1,0 +1,26 @@
+.hero{
+    height:300px;
+}
+.banner{
+    height:200px;
+}
+*{
+    margin:0px;
+    padding: 0px;
+}
+.header{
+    height: 50px;
+    
+}
+.logo img{
+    height:80px;
+    width: 150px;
+}
+.navigation a{
+    text-decoration: none;
+
+}
+.container #carouselExampleIndicators img{
+    height:200px;
+    width: 200px;
+}
